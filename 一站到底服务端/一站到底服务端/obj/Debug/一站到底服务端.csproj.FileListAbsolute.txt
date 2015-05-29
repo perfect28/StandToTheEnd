@@ -1,0 +1,84 @@
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe.config
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.pdb
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csprojResolveAssemblyReference.cache
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Welcom.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Properties.Resources.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csproj.GenerateResource.Cache
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.exe
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.pdb
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Login.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.PK.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.StateWindow.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fail.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fighter.resources
+F:\C#\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe.config
+F:\C#\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.exe
+F:\C#\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.pdb
+F:\C#\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe
+F:\C#\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.pdb
+F:\C#\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csprojResolveAssemblyReference.cache
+F:\C#\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fail.resources
+F:\C#\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fighter.resources
+F:\C#\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Login.resources
+F:\C#\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.PK.resources
+F:\C#\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.StateWindow.resources
+F:\C#\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Welcom.resources
+F:\C#\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Properties.Resources.resources
+F:\C#\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csproj.GenerateResource.Cache
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe.config
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.exe
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.pdb
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.pdb
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csprojResolveAssemblyReference.cache
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fail.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fighter.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Login.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.PK.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.StateWindow.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Welcom.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Properties.Resources.resources
+F:\我的文档\Visual Studio 2013\Projects\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csproj.GenerateResource.Cache
+F:\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe.config
+F:\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.exe
+F:\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.pdb
+F:\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe
+F:\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.pdb
+F:\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csprojResolveAssemblyReference.cache
+F:\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fail.resources
+F:\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fighter.resources
+F:\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Login.resources
+F:\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.PK.resources
+F:\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.StateWindow.resources
+F:\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Welcom.resources
+F:\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Properties.Resources.resources
+F:\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csproj.GenerateResource.Cache
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe.config
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.exe
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.pdb
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.pdb
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csprojResolveAssemblyReference.cache
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fail.resources
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fighter.resources
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Login.resources
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.PK.resources
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.StateWindow.resources
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Welcom.resources
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Properties.Resources.resources
+C:\Users\kkpanda\Desktop\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csproj.GenerateResource.Cache
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe.config
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.exe
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.pdb
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.exe
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\bin\Debug\一站到底服务端.pdb
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csprojResolveAssemblyReference.cache
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fail.resources
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Fighter.resources
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Login.resources
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.PK.resources
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.StateWindow.resources
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Welcom.resources
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.Properties.Resources.resources
+C:\Users\kkpanda\Desktop\大三上STUDY\一站到底\一站到底服务端\一站到底服务端\obj\Debug\一站到底服务端.csproj.GenerateResource.Cache

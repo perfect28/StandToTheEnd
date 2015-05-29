@@ -1,0 +1,12 @@
+F:\一站到底\一站到底客户端\一站到底客户端\bin\Release\一站到底客户端.exe.config
+F:\一站到底\一站到底客户端\一站到底客户端\bin\Release\一站到底客户端.exe
+F:\一站到底\一站到底客户端\一站到底客户端\bin\Release\一站到底客户端.pdb
+F:\一站到底\一站到底客户端\一站到底客户端\obj\Release\一站到底客户端.Fail.resources
+F:\一站到底\一站到底客户端\一站到底客户端\obj\Release\一站到底客户端.Fighter.resources
+F:\一站到底\一站到底客户端\一站到底客户端\obj\Release\一站到底客户端.Welcom.resources
+F:\一站到底\一站到底客户端\一站到底客户端\obj\Release\一站到底客户端.PK.resources
+F:\一站到底\一站到底客户端\一站到底客户端\obj\Release\一站到底客户端.Properties.Resources.resources
+F:\一站到底\一站到底客户端\一站到底客户端\obj\Release\一站到底客户端.StateWindow.resources
+F:\一站到底\一站到底客户端\一站到底客户端\obj\Release\一站到底客户端.csproj.GenerateResource.Cache
+F:\一站到底\一站到底客户端\一站到底客户端\obj\Release\一站到底客户端.exe
+F:\一站到底\一站到底客户端\一站到底客户端\obj\Release\一站到底客户端.pdb

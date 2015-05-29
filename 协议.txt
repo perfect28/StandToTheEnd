@@ -1,0 +1,11 @@
+客户端→服务端
+message|序号|内容
+
+服务端→客户端
+message|Tostatewindow|label1|label2|label3|label4|label5|0|0|0|0|0|3|5   要求客户端进入状态栏
+message|ToPK|gm1.name|gm2.name   要求客户端进入PK界面
+PK|New Pro|problem num|answer man  换新题
+PK|Show answer|num        显示答案
+PK|Exchange|problem num|answer man  让题
+message|To finished   结束
+message|To fighter    进入战神界面
